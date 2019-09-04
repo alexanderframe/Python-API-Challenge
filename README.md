@@ -1,0 +1,4 @@
+Solution for "WeatherPy" can be found in the 'afWeatheryPy' Jupyter notebook file.
+The written description of three observable trends portion of the assignment can be found in the 'Trends.md' file.
+
+I admittedly did not spend too much time on this assignment, as I focused more on our group's project.  My role in the project is to collect and synthesize data from API queries into a master DataFrame that my group can use to make plots and answer questions.  I felt that my work on the project is very similar to this homework which is why I did not spend as much time as I normally would on this assignment.

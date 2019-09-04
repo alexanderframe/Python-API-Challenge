@@ -1,0 +1,5 @@
+While many people already know that termperature generally increases the closer you get to the equator, I was surprised to see the two "spikes" of variance in temperature that occurs between -20 and 0 degrees of latitude, as well as between 20 and 40 degrees of latitude.
+
+Just as temperature rises as you move towards the equator, so does cloud cover it seems.  There were far fewer cities experiencing 0% cloud cover from the -10 to 10 latitude range than other latitude ranges.  There is also a higher concentration of cities experiencing near 100% cloud cover in that range than in others.
+
+Wind speed and humidity do not seem to be as closely tied to latitude as temperature and cloud cover do.  While cities near the equator do seem to have high humidity on average, I can not recognize any noticeable trends when comparing wind speed to the latitude of cities in my sample.
